@@ -1,6 +1,6 @@
 {
   "name": "rcj-cli",
-  "version": "1.0.0alpha-3",
+  "version": "1.0.0alpha-5",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -14,8 +14,8 @@
     "lib"
   ],
   "author": {
-    "name": "T-Roc",
-    "email": "lxp_work@163.com"
+    "name": "ranchauunjiang",
+    "email": "rcj1670471669@163.com"
   },
   "keywords": [
     "rcj-cli",

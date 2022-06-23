@@ -4,6 +4,7 @@ const program = require('commander');
 const figlet = require('figlet');
 const chalk = require('chalk');
 
+
 program
   .command('create <app-name>')
   .description('create a new project')
@@ -40,7 +41,7 @@ program
 
 program
   .on('--help', () => {
-    console.log('\r\n' + figlet.textSync('zhurong', {
+    console.log('\r\n' + figlet.textSync('r c j', {
       font: 'Ghost',
       horizontalLayout: 'default',
       verticalLayout: 'default',
